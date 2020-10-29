@@ -1,0 +1,13 @@
+{
+    "browsers":["chrome"],
+    "reporter": [
+        {
+            "name": "spec"
+        }
+    ],
+    "quarantineMode": false,
+    "skipJsErrors": true,
+    "selectorTimeout": 5000,
+    "assertionTimeout": 5000,
+    "pageLoadTimeout": 5000
+}
